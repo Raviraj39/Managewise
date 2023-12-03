@@ -34,7 +34,7 @@ https://raviraj-manage-wise-clone.netlify.app/
 ## To Run the Project
 
 ```sh
-$ git clone https://github.com/Raviraj39/Managerwise
+$ git clone https://github.com/Raviraj39/Managewise
 $ cd Managerwise
 $ run the live server
 Runs the app in the development mode.\
