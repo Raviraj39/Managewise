@@ -103,7 +103,7 @@ body{
 
 .left-cont{
 	background-color: var(--color-newhite);
-	padding: 80px 80px 20px 30px;
+	padding: 80px 50px 20px 30px;
 	border-radius: 20px;
 	width: max-content;
 	
